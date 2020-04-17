@@ -1,7 +1,6 @@
-# Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
+Lista de tarefas:
 
-Repositório criado durante aula ao vivo
-
-Editei diretamente no GitHub!
-
+- [x] Criar página principal
+- [] Criar página da loja
+- [x] Reunião com o cliente
+- [] Receber pagamento
